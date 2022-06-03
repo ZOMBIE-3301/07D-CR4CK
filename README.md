@@ -11,4 +11,6 @@ cd 07D-CR4CK
 python ex-sakib.py
 
 
-ENJOY FREE TOOL 🥀👽
+
+
+👽 ENJOY FREE TOOL 👽
