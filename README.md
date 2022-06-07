@@ -8,7 +8,7 @@ git clone https://github.com/devil-sakib/07D-CR4CK
 
 cd 07D-CR4CK
 
-python ex-sakib.py
+python xakib.py
 
 
 
